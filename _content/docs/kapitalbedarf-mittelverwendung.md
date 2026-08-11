@@ -1,0 +1,41 @@
+Diese Aufstellung zeigt den Kapitalbedarf der Startphase und wofür die Mittel verwendet werden. Sie ist die Grundlage des Investorengesprächs. Alle Beträge sind Planannahmen 2026 und als **[gerundete Richtwerte]** zu verstehen.
+
+⚠︎ Vor Verwendung mit Steuerberater und auf Basis realer Angebote (IT, Versicherung, Löhne) durchrechnen.
+
+## 1. Kapitalbedarf (Runway bis Break-even)
+
+Annahme: Break-even bei ~40 Kunden wird in ~6–9 Monaten erreicht; bis dahin trägt das Kapital die Fixkosten und den Personalaufbau.
+
+| Position | Einmalig | Monatlich | Anmerkung |
+|---|---|---|---|
+| Gründung (UG, Notar, Register, Gewerbe) | ~[600–1.000] € | — | Musterprotokoll |
+| Stammkapital | [500–2.500] € | — | Rücklagepflicht 25 % |
+| Versicherungen (anteilig) | — | ~[350] € | Betriebs-/Berufshaftpflicht |
+| IT / Plattform-MVP | ~[8.000–20.000] € | ~[300] € | Build-Weg entscheidet ⚠︎ |
+| Miete / Büro | — | ~[1.000] € | ab Umsatzstart |
+| Steuerberatung / Buchhaltung | — | ~[300] € | |
+| Marketing / Recruiting | ~[3.000] € | ~[500] € | Themenabend, QR, Landingpage |
+| Personalaufbau (Vorfinanzierung) | — | ~[variabel] € | Löhne vor Zahlungseingang Kasse |
+| Gründervergütung | — | erst ab tragfähigem DB | ⚠︎ nicht zu früh |
+| Liquiditätspuffer | ~[10.000] € | — | |
+
+## 2. Mittelverwendung (Beispielrechnung 150.000 €)
+
+| Verwendung | Anteil | Betrag |
+|---|---|---|
+| IT / Plattform & App-MVP | ~25 % | ~37.500 € |
+| Personal & Anlauf-Vorfinanzierung | ~30 % | ~45.000 € |
+| Marketing / Recruiting | ~15 % | ~22.500 € |
+| Fixkosten-Runway (Miete, StB, Versicherung) | ~20 % | ~30.000 € |
+| Liquiditätspuffer / Reserve | ~10 % | ~15.000 € |
+| **Summe** | **100 %** | **~150.000 €** |
+
+## 3. Mittelherkunft
+
+- Investment **150.000–200.000 €**, davon **15 % als Eigenkapital**, Rest als **(Wandel-)Darlehen** (siehe Gesellschafter-Eckpunkte).
+- ⚠︎ Struktur Eigenkapital/Darlehen mit Anwalt und Steuerberater festlegen.
+
+## 4. Steuerungslogik
+
+- Größter Hebel: **Produktivität** (abrechenbare vs. bezahlte Stunden) und **Tempo der Anerkennung**.
+- Monatliches Controlling: Deckungsbeitrag, Auslastung, Fortschritt Richtung Break-even (~40 Kunden).

@@ -1,0 +1,81 @@
+Dieses Formular bündelt die Einwilligung zur Abrechnung über die Pflegekasse (§45b Entlastungsbetrag, ggf. §45a Abs. 4), die Erklärung/Abtretung gegenüber der Pflegekasse sowie das SEPA-Lastschriftmandat für private Selbstzahler-Anteile.
+
+> ⚠︎ **Rechtlicher Hinweis:** Muster – **vor Verwendung anwaltlich/steuerlich sowie mit der Pflegekasse abstimmen** (Zulässigkeit der Abtretung/Direktabrechnung, Formulierung nach AnFöVO NRW, SEPA-Vorgaben).
+
+## Teil A – Angaben zur versicherten / betreuten Person
+
+| Feld | Eintrag |
+|---|---|
+| Name, Vorname | [Name] |
+| Geburtsdatum | [TT.MM.JJJJ] |
+| Anschrift | [Anschrift] |
+| Versichertennummer | [Versicherten-Nr.] |
+| Pflegegrad | [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 |
+| Gesetzl. Vertreter:in / Bevollmächtigte:r (falls) | [Name, Verhältnis] |
+
+## Teil B – Angaben zur Pflegekasse
+
+| Feld | Eintrag |
+|---|---|
+| Pflegekasse (Name) | [Pflegekasse] |
+| Anschrift der Pflegekasse | [Anschrift] |
+| Kranken-/Pflegekassen-Nr. (IK), falls bekannt | [___] |
+| Bereits genutzter Entlastungsbetrag im lfd. Jahr | [___] € |
+| Umwidmung §45a Abs. 4 gewünscht (ab PG 2) | [ ] ja [ ] nein |
+
+## Teil C – Erklärung und Abtretung zum Entlastungsbetrag (§45b, ggf. §45a Abs. 4)
+
+Die versicherte Person / bevollmächtigte Person erklärt:
+
+1. „Vertraut" ist als **anerkanntes Angebot zur Unterstützung im Alltag** nach AnFöVO NRW / §45a SGB XI zur Erbringung der vereinbarten Leistungen berechtigt. ⚠︎ Anerkennung/Angebotsfinder-Eintrag Voraussetzung.
+2. Die erbrachten Leistungen sollen über den **Entlastungsbetrag nach §45b SGB XI in Höhe von 131 €/Monat** (Pflegegrade 1–5) abgerechnet werden.
+3. Sofern gewünscht und zulässig, wird zusätzlich der Anspruch aus der **Umwidmung nach §45a Abs. 4 SGB XI** (bis zu 40 % der Pflegesachleistung ab Pflegegrad 2) für diese Leistungen eingesetzt.
+4. Zur Abrechnung wird der jeweilige Leistungsbetrag in Höhe der tatsächlich erbrachten und per **Leistungsnachweis** belegten Leistungen **an „Vertraut" abgetreten** bzw. „Vertraut" zur direkten Abrechnung mit der Pflegekasse bevollmächtigt.
+5. Übersteigt der Leistungsumfang das verfügbare Budget, wird der **Mehrbetrag privat** (Teil D) abgerechnet. Kassen- und Privatanteil werden **getrennt** ausgewiesen.
+
+Gewählter Abrechnungsumfang:
+- [ ] nur §45b (131 €/Monat)
+- [ ] §45b **und** §45a Abs. 4 Umwidmung (PG2 318 € · PG3 599 € · PG4 744 € · PG5 920 €/Monat)
+
+| | Datum | Unterschrift |
+|---|---|---|
+| Versicherte / bevollmächtigte Person | [TT.MM.JJJJ] | ________________ |
+
+## Teil D – SEPA-Lastschriftmandat (private / Selbstzahler-Anteile)
+
+Gilt ausschließlich für **private Anteile / BetreuungsPlus / nicht von der Pflegekasse gedeckte Beträge**. Kassenanteile werden hierüber **nicht** eingezogen.
+
+**Gläubiger:** [Firmierung UG (haftungsbeschränkt)], [Anschrift]
+**Gläubiger-Identifikationsnummer:** [Creditor-ID] ⚠︎ bei Bundesbank beantragen
+**Mandatsreferenz:** [wird von „Vertraut" vergeben]
+
+Ich ermächtige „Vertraut", Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von „Vertraut" auf mein Konto gezogenen Lastschriften einzulösen.
+
+| Feld | Eintrag |
+|---|---|
+| Kontoinhaber:in | [Name] |
+| Anschrift Kontoinhaber:in | [Anschrift] |
+| IBAN | [DE__ ____ ____ ____ ____ __] |
+| BIC (optional bei DE-IBAN) | [BIC] |
+| Kreditinstitut | [Bank] |
+| Art der Zahlung | [ ] wiederkehrend [ ] einmalig |
+
+Hinweis: Ich kann innerhalb von acht Wochen ab Belastung die Erstattung verlangen; es gelten die mit meinem Kreditinstitut vereinbarten Bedingungen. Die Vorabankündigung (Pre-Notification) erfolgt mit einer Frist von [z. B. 5 Kalendertagen] mit der Rechnung.
+
+| | Datum, Ort | Unterschrift |
+|---|---|---|
+| Kontoinhaber:in | [TT.MM.JJJJ, Ort] | ________________ |
+
+## Teil E – Einwilligung in die Datenverarbeitung zur Abrechnung
+
+Ich willige ein, dass „Vertraut" die zur Leistungserbringung und Abrechnung erforderlichen personen- und gesundheitsbezogenen Daten (Pflegegrad, Kassendaten, Leistungsnachweise) verarbeitet und – soweit für die Abrechnung erforderlich – an die **Pflegekasse** übermittelt. Die Verarbeitung erfolgt nach DSGVO auf **EU-Datenstandort**, datensparsam und zweckgebunden.
+
+- Die Einwilligung ist **freiwillig** und jederzeit mit Wirkung für die Zukunft widerrufbar.
+- Aufbewahrung nach gesetzlichen Fristen; danach Löschung gemäß Löschkonzept.
+- Details: [Datenschutzinformation].
+
+| | Datum | Unterschrift |
+|---|---|---|
+| Versicherte / bevollmächtigte Person | [TT.MM.JJJJ] | ________________ |
+
+> ⚠︎ Vor erstem Einsatz prüfen: Budget/Restanspruch bei der Pflegekasse bestätigt · Anerkennung als Angebot nach AnFöVO NRW liegt vor · Creditor-ID vorhanden.

@@ -1,0 +1,90 @@
+Diese ausfüllbare Vorlage strukturiert das jährliche Qualitäts- und Berichtssystem und dient als Grundlage für den Nachweis gegenüber der Stadt Köln, der jährlich **bis zum 31.03.** des Folgejahres vorzulegen ist.
+
+## 1. Zweck und rechtlicher Rahmen
+
+- Die AnFöVO NRW verlangt einen jährlichen Qualitäts-/Tätigkeitsnachweis zum Erhalt der Anerkennung nach § 45a SGB XI.
+- **Frist:** Vorlage bei der Stadt Köln, Abt. „Unterstützung im Alltag", **bis 31.03.** des Folgejahres.
+- Zweck: Nachweis der Leistungsfähigkeit, Qualität und fachlichen Begleitung sowie kontinuierliche Verbesserung.
+
+> ⚠︎ Format, Umfang und Übermittlungsweg des Nachweises (ggf. über PfAD.uia) final mit der Stadt Köln abstimmen.
+
+## 2. Deckblatt (ausfüllen)
+
+| Feld | Angabe |
+|------|--------|
+| Berichtsjahr | [Jahr] |
+| Berichtszeitraum | 01.01.[Jahr] – 31.12.[Jahr] |
+| Anbieter | Vertraut UG (haftungsbeschränkt) i. G. |
+| Anschrift / Kontakt | [Straße, Hausnummer], [PLZ] Köln · [Telefon] · [E-Mail] |
+| Anerkennungs-/Registriernummer | [Nr.] |
+| Verantwortliche Fachkraft | [Name der Fachkraft] |
+| Geschäftsführung | Tim Wolff |
+| Erstellt am / durch | [Datum] / [Name] |
+
+## 3. Kennzahlen-Cockpit (ausfüllen)
+
+Alle Kennzahlen für das Berichtsjahr eintragen und mit dem Vorjahr sowie dem Zielwert vergleichen.
+
+| Kennzahl | Definition / Formel | Zielwert | Ist [Jahr] | Vorjahr | Bewertung |
+|----------|---------------------|----------|------------|---------|-----------|
+| Dokumentierte Einsätze | dokumentierte Einsätze ÷ Gesamteinsätze × 100 | **100 %** | [ %] | [ %] | [🟢/🟡/🔴] |
+| Beschwerdequote | Beschwerden ÷ Einsätze (oder ÷ Kunden) × 100 | [ ≤ % ] | [ %] | [ %] | [ ] |
+| Wiederbuchungsquote | Kunden mit Folgebuchung ÷ Kunden × 100 | [ ≥ % ] | [ %] | [ %] | [ ] |
+| Ausfallquote | ausgefallene Einsätze ÷ geplante Einsätze × 100 | [ ≤ % ] | [ %] | [ %] | [ ] |
+| Wechselquote | Betreuungswechsel ÷ laufende Betreuungen × 100 | [ ≤ % ] | [ %] | [ %] | [ ] |
+| Kundenzufriedenheit | Ø-Bewertung / NPS aus Befragung | [ ≥ ] | [ ] | [ ] | [ ] |
+| Mitarbeiterzufriedenheit | Ø-Bewertung aus Befragung | [ ≥ ] | [ ] | [ ] | [ ] |
+| Nachschulungen | Anzahl durchgeführter Nachschulungen / Teilnahmen | [ ] | [ ] | [ ] | [ ] |
+
+**Basiszahlen zur Einordnung (ausfüllen):** aktive Kunden [Anzahl] · Einsätze gesamt [Anzahl] · geleistete Betreuungsstunden [Anzahl] · aktive Betreuungskräfte [Anzahl].
+
+## 4. Erläuterung der Kennzahlen
+
+- **Dokumentierte Einsätze (%):** Grundregel „keine Abrechnung ohne Leistungsnachweis" – Zielwert 100 %. Abweichungen begründen.
+- **Beschwerdequote:** Anzahl und Art der Beschwerden; Bezug zur Beschwerdedokumentation (siehe Abschnitt 5).
+- **Wiederbuchungsquote:** Indikator für Zufriedenheit und Bindung; stützt den USP Interessen-Matching.
+- **Ausfallquote:** Wirksamkeit der Vertretungs-/Springer-Logik; hohe Werte lösen Maßnahmen aus.
+- **Wechselquote:** Kontinuität der Betreuung; niedrige Werte belegen die Wirkung des Interessen-Matchings.
+- **Kunden-/Mitarbeiterzufriedenheit:** Ergebnis der [halbjährlichen/jährlichen] Befragung.
+- **Nachschulungen:** abgeleiteter Fortbildungsbedarf aus Fällen, Beschwerden und QS.
+
+## 5. Struktur des Jahresberichts (Gliederung zum Ausfüllen)
+
+1. **Angebot & Adressaten** – erbrachte Leistungsbereiche (Alltagsbegleitung, Aktivierung, Begleitung, Entlastung), Einzugsgebiet, Kundenstruktur (Pflegegrade). [Freitext]
+2. **Personal & Qualifikation** – Anzahl/Struktur der Kräfte, Qualifikationsnachweise, Registrierungen vor Einsatz. [Freitext]
+3. **Fachliche Begleitung** – Tätigkeit der verantwortlichen Fachkraft, Freigaben (Gate), Fallbesprechungen, Vertretung. [Freitext]
+4. **Kennzahlen** – Übernahme des Cockpits (Abschnitt 3) mit Kommentierung der Abweichungen. [Freitext]
+5. **Beschwerden & besondere Vorkommnisse** – Anzahl, Art, Bearbeitung, Fristen, Ergebnisse; ggf. Meldungen an Behörden. [Freitext]
+6. **Fortbildung / Nachschulung** – durchgeführte Schulungen, Teilnehmende, Themen. [Freitext]
+7. **Maßnahmen & Ausblick** – abgeleitete Verbesserungen, Ziele Folgejahr, Konzeptanpassungen. [Freitext]
+
+## 6. Monatliche und laufende Routinen
+
+| Turnus | Aktivität | Verantwortlich | Nachweis |
+|--------|-----------|----------------|----------|
+| Laufend | Doku-Kontrolle je Einsatz (Pflichtfelder), Freigabe-Gate | Verantwortliche Fachkraft | Plattform-Log |
+| Monatlich | Fall- und Teamgespräch | [Name der Fachkraft] | Protokoll |
+| Monatlich | Kennzahlen erfassen/aktualisieren | [Name] | Cockpit |
+| Quartalsweise | Beschwerde-/Vorkommnis-Review | Fachkraft/Leitung | Reviewnotiz |
+| [Halbjährlich] | Kunden- & Mitarbeiterbefragung | [Name] | Auswertung |
+| Jährlich (Q1) | Jahresbericht erstellen & einreichen | Geschäftsführung/Fachkraft | Bericht + Sendenachweis |
+
+## 7. Jahres-Fahrplan zum Nachweis
+
+| Zeitraum | Aufgabe |
+|----------|---------|
+| Januar | Kennzahlen des Vorjahres zusammenführen, Befragungsergebnisse auswerten |
+| Februar | Jahresbericht schreiben, Fachkraft-Review, Maßnahmen ableiten |
+| **bis 31.03.** | **Bericht bei der Stadt Köln einreichen** (Fristwahrung, Sendenachweis sichern) |
+| April | Maßnahmen für das laufende Jahr starten, Ziele/Zielwerte aktualisieren |
+
+## 8. Freigabe und Anlagen
+
+**Anlagen:** Kennzahlen-Rohdaten · Befragungsauswertungen · Beschwerdeübersicht · Schulungsnachweise · aktualisiertes Konzept (falls geändert).
+
+---
+
+| Erstellt / geprüft | Freigegeben |
+|--------------------|-------------|
+| [Name der Fachkraft], verantwortliche Fachkraft | Tim Wolff, Geschäftsführung |
+| [Ort, Datum], [Unterschrift] | [Ort, Datum], [Unterschrift] |

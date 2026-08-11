@@ -1,0 +1,85 @@
+Dieses Formular erfasst Beschwerden, Lob und Verbesserungsvorschläge von Kund:innen und Angehörigen; es ist Teil des verpflichtenden Beschwerde- und Krisenmanagements und speist die Qualitätsschleife sowie das Interessen-Matching.
+
+## Hinweise
+
+- Jede Rückmeldung wird ernst genommen, vertraulich behandelt und **dokumentiert** – auch positive.
+- Eingang wird bestätigt; jede Beschwerde erhält eine Bearbeitungsfrist und eine Rückmeldung.
+- Beschwerden führen nicht zu Nachteilen bei der Betreuung.
+
+## Teil A – Angaben zur meldenden Person
+
+| Feld | Eintrag |
+|---|---|
+| Name | [Name] |
+| Rolle | [ ] Kund:in [ ] Angehörige:r [ ] Bevollmächtigte:r [ ] sonstige:r |
+| Betrifft betreute Person | [Name] |
+| Kontakt (Telefon/E-Mail) | [Kontakt] |
+| Rückmeldung gewünscht per | [ ] Telefon [ ] E-Mail [ ] persönlich [ ] anonym (keine Rückmeldung) |
+| Eingangsdatum | [TT.MM.JJJJ] |
+| Aufgenommen von | [Name] |
+
+## Teil B – Anliegen
+
+- Art der Rückmeldung: [ ] Beschwerde [ ] Verbesserungsvorschlag [ ] Lob [ ] Frage
+- Was ist passiert? (Sachverhalt, Datum, beteiligte Personen): [Freitext]
+- Betroffener Einsatz / Datum (falls): [TT.MM.JJJJ]
+- Betroffene Betreuungsperson (falls): [Name]
+
+## Teil C – Kategorie
+
+Mehrfachnennung möglich:
+
+- [ ] Passung / Matching (Interessen, Persönlichkeit, Chemie)
+- [ ] Zuverlässigkeit / Pünktlichkeit / Ausfall
+- [ ] Verhalten / Umgangston / Respekt
+- [ ] Leistungsinhalt / Umfang / Qualität
+- [ ] Wechsel der Betreuungsperson / Vertretung
+- [ ] Abrechnung / Preise / Pflegekasse
+- [ ] Organisation / Erreichbarkeit / Terminierung
+- [ ] Datenschutz / Diskretion
+- [ ] Sicherheit / Krisensituation
+- [ ] Sonstiges: [___]
+
+## Teil D – Dringlichkeit
+
+- [ ] **Hoch** – Gefährdung, akute Situation, sofortiges Handeln (→ Leitung/Krisenmanagement umgehend)
+- [ ] **Mittel** – zeitnahe Klärung nötig
+- [ ] **Niedrig** – Hinweis / genereller Verbesserungswunsch
+
+## Teil E – Gewünschte Lösung
+
+- Was wäre aus Sicht der meldenden Person eine gute Lösung? [Freitext]
+- Konkret gewünscht: [ ] Gespräch [ ] Wechsel der Betreuungsperson [ ] Anpassung Umfang/Zeiten [ ] Korrektur Abrechnung [ ] Entschuldigung [ ] sonstiges: [___]
+
+---
+
+## Teil F – Bearbeitung (intern)
+
+| Feld | Eintrag |
+|---|---|
+| Vorgangs-Nr. | [___] |
+| Zuständige Fachkraft / Leitung | [Name] |
+| Eingangsbestätigung an Melder:in am | [TT.MM.JJJJ] |
+| **Bearbeitungsfrist** | [TT.MM.JJJJ] (Ziel: Beschwerden binnen [z. B. 10 Werktagen]) |
+| Sofortmaßnahme (bei hoher Dringlichkeit) | [___] |
+| Ursachenanalyse | [___] |
+| Vereinbarte Maßnahme(n) | [___] |
+| Verantwortlich / Termin | [Name], [TT.MM.JJJJ] |
+| Status | [ ] offen [ ] in Bearbeitung [ ] gelöst [ ] eskaliert |
+| Abgeschlossen am | [TT.MM.JJJJ] |
+
+## Teil G – Rückmeldung an die meldende Person
+
+- Rückmeldung erfolgt am: [TT.MM.JJJJ] durch [Name]
+- Inhalt / vereinbartes Ergebnis: [Freitext]
+- Meldende Person zufrieden mit Lösung? [ ] ja [ ] teilweise [ ] nein
+- Nachfassen erforderlich? [ ] nein [ ] ja, am [TT.MM.JJJJ]
+
+## Teil H – Qualitätsschleife und Matching-Impuls (intern)
+
+- Relevanz für Kennzahlen: [ ] Beschwerdequote [ ] Wechselquote [ ] Wiederbuchung [ ] Zufriedenheit
+- Erkenntnis für das **Interessen-Matching** (z. B. Profil anpassen, Tags korrigieren): [___]
+- Ableitung für Schulung / Prozess / QS: [___]
+- In Fallgespräch / Qualitätsbericht aufgenommen: [ ] ja, am [TT.MM.JJJJ]
+
+> ⚠︎ Beschwerdemanagement ist Pflichtbestandteil des Leistungskonzepts (AnFöVO NRW). Dokumentation und Auswertung fließen in den Jahres-Qualitätsbericht (bis 31.03.) ein.

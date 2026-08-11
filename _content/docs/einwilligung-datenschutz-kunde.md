@@ -1,0 +1,107 @@
+Mit diesem Formular erklären Kund:innen (betreute Person) bzw. deren Angehörige/Bevollmächtigte ihre Einwilligung in die Verarbeitung personenbezogener Daten und besonderer Kategorien (Gesundheitsdaten) durch [Firmenname UG (haftungsbeschränkt)].
+
+> ⚠︎ **Prüfvorbehalt:** Diese Einwilligung betrifft **Gesundheitsdaten nach Art. 9 DSGVO** und häufig **vulnerable, ggf. nicht voll geschäftsfähige** Personen. Formulierung, Freiwilligkeit, Bestimmtheit und die Frage der **Einwilligungs-/Vertretungsbefugnis** (rechtliche Betreuung/Vorsorgevollmacht) sind durch Anwält:in/DSB zu prüfen. Die Einwilligung muss **freiwillig, spezifisch, informiert und ausdrücklich** erfolgen (Art. 4 Nr. 11, Art. 7, Art. 9 Abs. 2 lit. a DSGVO).
+
+## 1. Verantwortlicher
+
+| Angabe | Inhalt |
+|---|---|
+| Anbieter | [Firmenname UG (haftungsbeschränkt)] |
+| Anschrift | [Straße, Hausnummer], [PLZ] Köln |
+| Kontakt | [Telefon] · [E-Mail] |
+| Datenschutz | [datenschutz@domain.de] · DSB: [Name/„nicht benannt"] ⚠︎ |
+
+## 2. Betroffene Person (betreute Person)
+
+| Feld | Eintrag |
+|---|---|
+| Name, Vorname | [__________________________] |
+| Geburtsdatum | [__________________________] |
+| Anschrift | [__________________________] |
+| Telefon / E-Mail | [__________________________] |
+
+## 3. Erklärende Person (falls abweichend)
+
+Die Einwilligung wird abgegeben durch: 
+
+- [ ] die betreute Person selbst
+- [ ] Angehörige:n / Bevollmächtigte:n
+- [ ] rechtliche:n Betreuer:in (Betreuungsbeschluss) / Vorsorgebevollmächtigte:n
+
+| Feld | Eintrag |
+|---|---|
+| Name, Vorname | [__________________________] |
+| Verhältnis zur betreuten Person | [__________________________] |
+| Nachweis der Vertretungsbefugnis | [Vollmacht/Beschluss – Art/Datum] ⚠︎ |
+
+> ⚠︎ Bei fehlender Einwilligungsfähigkeit der betreuten Person ist die Vertretungsbefugnis **nachzuweisen** und der Umfang der Vollmacht (Gesundheits-/Datenangelegenheiten) zu prüfen. ⚠︎
+
+## 4. Zwecke der Verarbeitung
+
+Ihre Daten werden verarbeitet zur:
+
+- Anbahnung und Durchführung der Betreuung (**Alltagsbegleitung, Aktivierung, Entlastung – keine medizinische Pflege**),
+- Erhebung des Betreuungsbedarfs,
+- **Vermittlung einer passenden Betreuungsperson (Interessen-Matching)**,
+- Einsatzplanung sowie Leistungs- und Qualitätsdokumentation,
+- Abrechnung, auch über den Entlastungsbetrag (§ 45b SGB XI) und/oder das private Abo „BetreuungsPlus",
+- Kommunikation mit Ihnen und benannten Kontaktpersonen.
+
+## 5. Kategorien der verarbeiteten Daten
+
+| Kategorie | Beispiele |
+|---|---|
+| Stamm-/Kontaktdaten | Name, Anschrift, Telefon, E-Mail, Notfallkontakt |
+| **Gesundheits-/Bedarfsdaten (Art. 9)** | Pflegegrad, Einschränkungen/Bedarfe, Mobilität, Besonderheiten, relevante Hinweise für die Betreuung ⚠︎ |
+| Interessen-/Matching-Profil | Hobbys, Vorlieben, Werte, Sprache |
+| Einsatz-/Leistungsdaten | Termine, erbrachte Leistungen, Dokumentation |
+| Abrechnungsdaten | Pflegekasse, ggf. Bankverbindung/SEPA |
+
+## 6. Einwilligung
+
+Bitte einzeln bestätigen:
+
+- [ ] Ich willige in die Verarbeitung meiner **personenbezogenen Daten** zu den unter Ziffer 4 genannten Zwecken ein (Art. 6 Abs. 1 lit. a DSGVO).
+- [ ] Ich willige **ausdrücklich** in die Verarbeitung meiner **Gesundheitsdaten** (besondere Kategorien, Art. 9 DSGVO) zu den genannten Zwecken ein (**Art. 9 Abs. 2 lit. a DSGVO**).
+- [ ] Ich willige in die Nutzung meiner Interessen-/Bedarfsangaben für das **Interessen-Matching** ein.
+- [ ] Ich willige ein, dass zur **Abrechnung** erforderliche Daten (inkl. Pflegegrad/Leistungsbezug) an die **Pflege-/Krankenkasse** übermittelt werden. ⚠︎
+- [ ] *(optional)* Ich willige ein, dass benannte **Angehörige/Kontaktpersonen** über Einsätze/Auffälligkeiten informiert werden dürfen: [Name/Kontakt] ______________________
+
+> ⚠︎ Für Fotos, Testimonials oder Marketing ist eine **gesonderte, getrennte Einwilligung** einzuholen (nicht Teil dieser Erklärung). ⚠︎
+
+## 7. Empfänger
+
+Empfänger sind – soweit erforderlich – die eingesetzte Betreuungskraft und die verantwortliche Fachkraft/Leitung, die Verwaltung (Abrechnung), die Pflege-/Krankenkasse, Steuerberatung sowie IT-Dienstleister als Auftragsverarbeiter (Art. 28 DSGVO). **Datenstandort EU/EWR; keine Drittlandübermittlung** vorgesehen. ⚠︎
+
+## 8. Speicherdauer
+
+Die Daten werden für die Dauer des Betreuungsverhältnisses und darüber hinaus im Rahmen gesetzlicher Aufbewahrungspflichten (z. B. Abrechnung 8–10 Jahre) gespeichert. Nach Widerruf/Zweckfortfall werden Daten gelöscht, soweit keine Aufbewahrungspflicht besteht. ⚠︎ [Frist Leistungsdokumentation eintragen]
+
+## 9. Freiwilligkeit
+
+Die Einwilligung ist **freiwillig**. Ohne die Verarbeitung der erforderlichen (Gesundheits-)Daten kann die Betreuung jedoch **nicht erbracht** und nicht mit der Pflegekasse abgerechnet werden. Es entstehen keine Nachteile über die Nichterbringung der Leistung hinaus.
+
+## 10. Widerrufsrecht
+
+> **Sie können diese Einwilligung jederzeit und ohne Angabe von Gründen mit Wirkung für die Zukunft widerrufen.** Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt unberührt (Art. 7 Abs. 3 DSGVO).
+
+Widerruf formlos an: [E-Mail-Adresse] oder [Postanschrift]. Nach Widerruf stellen wir die betroffene Verarbeitung ein und löschen die Daten, soweit keine gesetzliche Aufbewahrungspflicht besteht.
+
+## 11. Ihre weiteren Rechte
+
+Ihnen stehen die Rechte auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21) sowie ein **Beschwerderecht bei der LDI NRW** (Art. 77) zu. Einzelheiten: Datenschutzerklärung [Link].
+
+## 12. Unterschriften
+
+| | |
+|---|---|
+| Ort, Datum | [__________________________] |
+| Unterschrift betreute Person | [__________________________] |
+| Unterschrift Angehörige:r/Bevollmächtigte:r | [__________________________] |
+| Für [Firmenname UG] (Fachkraft/Leitung) | [__________________________] |
+
+Eine Kopie dieser Einwilligung sowie die Datenschutzerklärung wurden ausgehändigt: [ ] ja.
+
+---
+
+> ⚠︎ **Zwingend fachlich prüfen:** Bestimmtheit/Trennung der Einwilligungen (Kopplungsverbot), Einwilligungsfähigkeit/Vertretung vulnerabler Personen, Formulierung der Art.-9-Einwilligung, Abrechnungs-/Abtretungsweg zur Pflegekasse. Dieser Entwurf ersetzt keine Rechtsberatung.

@@ -1,0 +1,38 @@
+Allgemeine Geschäftsbedingungen für das private Zusatzangebot **BetreuungsPlus** der Vertraut UG (haftungsbeschränkt). BetreuungsPlus ist ein **privat bezahltes Angebot außerhalb der Pflegekassenleistungen** und strikt von diesen getrennt.
+
+⚠︎ **Entwurf — vor Verwendung anwaltlich prüfen lassen** (AGB-Recht, Verbraucherschutz, Klauselkontrolle).
+
+## § 1 Geltungsbereich
+Diese AGB gelten für alle Verträge über privat bezahlte Betreuungs- und Entlastungsleistungen („BetreuungsPlus") zwischen der Vertraut UG (haftungsbeschränkt), [Anschrift] („Anbieter"), und dem/der Kund:in („Kunde").
+
+## § 2 Vertragsgegenstand
+Der Anbieter erbringt **niedrigschwellige Alltagsbegleitung, Aktivierung und Entlastung** — ausdrücklich **keine medizinische oder körperbezogene Pflege** und keine Leistungen, die eine ärztliche/pflegerische Qualifikation erfordern.
+
+## § 3 Vertragsschluss
+Der Vertrag kommt durch Buchung eines Stundenpakets (2/4/6/8 Stunden oder Zusatzstunden) und Bestätigung durch den Anbieter zustande.
+
+## § 4 Leistungen & Terminierung
+Einsätze werden nach dem Interessen-Matching des Anbieters geplant. Termine, Häufigkeit und Ort werden individuell vereinbart. Der Anbieter bemüht sich um personelle Kontinuität, sichert eine bestimmte Betreuungsperson jedoch nicht zu (Vertretungsregelung).
+
+## § 5 Preise & Zahlung
+Es gelten die zum Buchungszeitpunkt vereinbarten Preise [Preisliste]. Die Abrechnung erfolgt [monatlich/pro Paket] per SEPA-Lastschrift. BetreuungsPlus-Leistungen werden **nicht** über die Pflegekasse abgerechnet.
+
+## § 6 Absage & Ausfall
+Termine können bis [24/48] Stunden vorher kostenfrei abgesagt werden. Bei späterer Absage kann [Regelung/Ausfallpauschale] berechnet werden. ⚠︎ zulässige Höhe prüfen.
+
+## § 7 Laufzeit & Kündigung
+Abo-Verträge haben eine Laufzeit von [1 Monat] und verlängern sich [automatisch], sofern nicht mit einer Frist von [14 Tagen] gekündigt wird. Das Recht zur außerordentlichen Kündigung bleibt unberührt.
+
+## § 8 Pflichten des Kunden
+Der Kunde stellt einen sicheren Zugang und die für die Leistung notwendigen Informationen bereit.
+
+## § 9 Haftung
+Der Anbieter haftet für Vorsatz und grobe Fahrlässigkeit unbeschränkt, im Übrigen nach den gesetzlichen Bestimmungen. ⚠︎ Haftungsklausel anwaltlich prüfen.
+
+## § 10 Datenschutz
+Es gilt die Datenschutzerklärung des Anbieters. Die Verarbeitung besonderer Datenkategorien erfolgt nur mit Einwilligung.
+
+## § 11 Schlussbestimmungen
+Es gilt deutsches Recht. Sollten einzelne Bestimmungen unwirksam sein, bleibt der Vertrag im Übrigen wirksam.
+
+_Stand: [Datum] · Widerrufsrecht für Verbraucher siehe gesonderte Widerrufsbelehrung._

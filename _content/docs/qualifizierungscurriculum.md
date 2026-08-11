@@ -1,0 +1,100 @@
+Curriculum der Basisqualifizierung (40 Unterrichtseinheiten) für Betreuungskräfte in der allgemeinen Unterstützung/Betreuung nach den Vorgaben der AnFöVO NRW — als Grundlage für die eigene Qualifizierung von „Vertraut".
+
+## ⚠︎ Statushinweis: SCHRITT 2 / Ausbaustufe — für den Start NICHT erforderlich
+
+> **Für den Start setzt „Vertraut" ausschließlich bereits qualifizierte Kräfte ein** (mitgebrachte ≥ 3-jährige Ausbildung, §53c-160-Std.-Nachweis oder 40-UE-Basisqualifizierung von einem anderen anerkannten Anbieter). **Dieses Curriculum ist bewusst Schritt 2** und wird erst relevant, wenn „Vertraut" breiter rekrutiert und Kräfte **ohne** Vorqualifikation selbst schult. Die eigene Anerkennung als qualifizierender Anbieter ist dann gesondert bei der zuständigen Stelle zu beantragen.
+
+## Eckdaten
+
+| Merkmal | Angabe |
+|---------|--------|
+| Gesamtumfang | **40 Unterrichtseinheiten (UE)** |
+| 1 UE | 45 Minuten (⚠︎ intern festlegen) |
+| Zielgruppe | Betreuungskräfte allgemeine Unterstützung/Betreuung (§45a SGB XI) |
+| Abgrenzung | **Keine** medizinische/körperbezogene Pflege — reine Alltagsbegleitung/Aktivierung/Entlastung |
+| Format | Präsenz und/oder Blended Learning ⚠︎ mit Stadt Köln abstimmen |
+| Abschluss | Teilnahmenachweis mit Stundenumfang + bestandener Abschlusstest |
+| Separate Variante | 30 UE „nur Hauswirtschaft" (Module gekürzt) ⚠︎ optional |
+
+> Hinweis: Anerkennungsfähigkeit von Inhalten, UE-Definition und Prüfungsmodalitäten sind vor Durchführung mit der Stadt Köln (Abt. „Unterstützung im Alltag") abzustimmen. ⚠︎
+
+## Modulübersicht (40 UE)
+
+| Modul | Titel | UE | Lernziele (Kurzform) |
+|-------|-------|----|----------------------|
+| 1 | Rolle, Haltung & Selbstverständnis | 5 | Rollenbild der Betreuungskraft; Werte (professionell, respektvoll, zuverlässig, diskret, pünktlich, lösungsorientiert); Erwartungen und Selbstfürsorge verstehen |
+| 2 | Kommunikation & Gesprächsführung | 6 | Aktives Zuhören, wertschätzende Kommunikation, Umgang mit Menschen mit Demenz/Einschränkungen, Angehörigenkommunikation |
+| 3 | Grenzen der Tätigkeit / Abgrenzung zur Pflege | 4 | Klar unterscheiden: erlaubte Alltagsbegleitung vs. med./körperbezogene Pflege; keine Medikamentengabe; keine privaten Geldgeschäfte; Erkennen der eigenen Grenzen |
+| 4 | Datenschutz & Schweigepflicht (DSGVO) | 3 | Umgang mit sensiblen Gesundheitsdaten, Verschwiegenheit, keine Weitergabe von Daten/Bildern, Einwilligungen |
+| 5 | Dokumentation | 3 | Pflichtfelder je Einsatz, keine Abrechnung ohne Leistungsnachweis, System als einzige Doku-Quelle (kein WhatsApp), keine medizinischen Diagnosen |
+| 6 | Notfälle & Eskalation | 5 | Notfallkette, Verhalten in Akut-/Gefahrensituationen, Meldewege an Fachkraft, Grundlagen Erste Hilfe ⚠︎ ggf. separater Erste-Hilfe-Kurs |
+| 7 | Interessen-Matching & Beziehungsgestaltung | 4 | Nähe-Distanz-Regulierung, Beziehungskontinuität, Interessen/Werte als Basis passender Einsätze, Vertrauensaufbau |
+| 8 | Aktivierung & Alltagsgestaltung | 6 | Aktivierende Angebote (Bewegung, Gedächtnis, Kreativität, Biografiearbeit), Tagesstruktur, hauswirtschaftliche Begleitung |
+| 9 | Recht, Rahmen & Abrechnung | 2 | §45a/§45b SGB XI, Entlastungsbetrag, Rolle der verantwortlichen Fachkraft, Vertretungs-/Beschwerdewege |
+| 10 | Abschlusstest & Reflexion | 2 | Wissensüberprüfung, Fallreflexion, Transfer in die Praxis |
+| | **Summe** | **40** | |
+
+## Modul-Detail (Lernziele ausführlich)
+
+### Modul 1 — Rolle, Haltung & Selbstverständnis (5 UE)
+- Die Teilnehmenden kennen das Rollenbild einer Betreuungskraft bei „Vertraut" und grenzen es von der Pflege ab.
+- Sie verinnerlichen die Leitwerte und reflektieren die eigene Haltung gegenüber älteren und hilfebedürftigen Menschen.
+- Sie kennen Grundlagen der Selbstfürsorge und Psychohygiene.
+
+### Modul 2 — Kommunikation & Gesprächsführung (6 UE)
+- Aktives Zuhören, empathische und wertschätzende Kommunikation.
+- Kommunikation mit Menschen mit kognitiven Einschränkungen/Demenz (validierende Grundhaltung).
+- Umgang mit Angehörigen; professionelle Distanz im Gespräch.
+
+### Modul 3 — Grenzen der Tätigkeit / Abgrenzung zur Pflege (4 UE)
+- Sichere Unterscheidung erlaubter Tätigkeiten (Begleitung, Aktivierung, Entlastung) von unzulässigen (Medikamentengabe, Körperpflege, medizinische Handlungen).
+- Keine privaten Geldgeschäfte, keine Geschenke ohne Rücksprache.
+- Erkennen und Kommunizieren eigener fachlicher und persönlicher Grenzen.
+
+### Modul 4 — Datenschutz & Schweigepflicht (3 UE)
+- DSGVO-Grundlagen für den Betreuungsalltag; besonderer Schutz von Gesundheitsdaten.
+- Verschwiegenheit, keine Weitergabe von Kundendaten/Bildern, Umgang mit Einwilligungen.
+
+### Modul 5 — Dokumentation (3 UE)
+- Pflichtfelder je Einsatz: Datum, Start-/Endzeit, Ort, betreute Person, Leistungen, Besonderheiten, ggf. Stimmung/Verfassung, Abweichungen, Rückmeldung bei Auffälligkeiten.
+- Harte Regeln: keine Abrechnung ohne Leistungsnachweis, keine unvollständigen Einträge, System = einzige Doku-Quelle, keine medizinischen Diagnosen.
+
+### Modul 6 — Notfälle & Eskalation (5 UE)
+- Notfallkette und Verhalten in Akut-/Gefahrensituationen (Sturz, Verwirrtheit, Aggression, gesundheitliche Verschlechterung).
+- Meldewege an die verantwortliche Fachkraft; Dokumentation von Vorfällen.
+- ⚠︎ Grundlagen Erste Hilfe (ggf. externer Erste-Hilfe-Kurs als Ergänzung).
+
+### Modul 7 — Interessen-Matching & Beziehungsgestaltung (4 UE)
+- Nähe-Distanz-Regulierung und professionelle Beziehungsgestaltung.
+- Bedeutung von Interessen/Werten für passende Einsätze (USP); Beziehungskontinuität.
+
+### Modul 8 — Aktivierung & Alltagsgestaltung (6 UE)
+- Aktivierende Angebote: Bewegung, Gedächtnistraining, Kreativität, Musik, Biografiearbeit.
+- Gestaltung einer sinnstiftenden Tagesstruktur; leichte hauswirtschaftliche Begleitung.
+
+### Modul 9 — Recht, Rahmen & Abrechnung (2 UE)
+- Überblick §45a/§45b SGB XI, Entlastungsbetrag (131 €/Monat), Rolle der verantwortlichen Fachkraft.
+- Vertretungsregelung, Beschwerde- und Krisenmanagement.
+
+### Modul 10 — Abschlusstest & Reflexion (2 UE)
+- Wissensüberprüfung und Fallreflexion; Transferplanung in die Praxis.
+
+## Abschlusstest-Konzept
+
+| Merkmal | Angabe |
+|---------|--------|
+| Form | Schriftlicher Test (Multiple Choice + kurze Fallfragen) und/oder mündliche Fallbesprechung ⚠︎ festlegen |
+| Umfang | ca. [20–30] Fragen |
+| Bestehensgrenze | **[70 %]** richtig ⚠︎ intern festlegen |
+| Schwerpunkte | Abgrenzung zur Pflege, Datenschutz, Dokumentation, Notfälle/Eskalation |
+| Wiederholung | Bei Nichtbestehen: [eine] Wiederholung nach Nachschulung |
+| Bewertung durch | Verantwortliche Fachkraft/Leitung |
+
+## Nachweise
+
+- **Teilnahmebescheinigung** mit Angabe des Stundenumfangs (**40 UE**), Modulen und Zeitraum.
+- **Zertifikat** über die bestandene Abschlussprüfung (Basisqualifizierung allgemeine Unterstützung/Betreuung).
+- Ablage in der Personalakte; Registrierung/Meldung der Qualifikation vor Einsatz (Voraussetzung der Abrechenbarkeit).
+- Aufnahme in die Personal-Qualifikationsübersicht für den Jahresbericht (bis 31.03.) und die fachliche Begleitung.
+
+> ⚠︎ Anerkennung des eigenen Curriculums und der ausgestellten Nachweise durch die zuständige Stelle vor erstem Einsatz selbstqualifizierter Kräfte sicherstellen.

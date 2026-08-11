@@ -1,0 +1,191 @@
+Diese Datenschutzerklärung informiert gemäß Art. 13 und 14 DSGVO über die Verarbeitung personenbezogener Daten im Rahmen unserer Website, unserer Betreuungsplattform und der zugehörigen App.
+
+> ⚠︎ **Rechtlicher Prüfvorbehalt (gesamtes Dokument):** Dieser Entwurf ist eine Arbeitsgrundlage und **kein rechtsverbindlicher Text**. Wegen der Verarbeitung **sensibler Gesundheitsdaten (Art. 9 DSGVO)** vulnerabler Personen ist eine Prüfung durch eine:n Fachanwält:in für IT-/Datenschutzrecht **und** durch eine:n Datenschutzbeauftragte:n (DSB) vor Veröffentlichung **zwingend**. Jede mit „⚠︎" markierte Stelle ist gesondert zu prüfen.
+
+## 1. Verantwortlicher und Kontakt
+
+Verantwortlicher im Sinne der DSGVO und weiterer nationaler Datenschutzgesetze ist:
+
+| Angabe | Inhalt |
+|---|---|
+| Firma | [Firmenname UG (haftungsbeschränkt)] |
+| Anschrift | [Straße, Hausnummer], [PLZ] Köln |
+| Vertreten durch | [Geschäftsführer:in, z. B. Tim Wolff] |
+| Telefon | [Telefonnummer] |
+| E-Mail | [E-Mail-Adresse] |
+| Website | [www.domain.de] |
+
+## 2. Datenschutzbeauftragte:r (DSB)
+
+| Angabe | Inhalt |
+|---|---|
+| Name / Funktion | [Name DSB oder „nicht benannt"] |
+| E-Mail | [datenschutz@domain.de] |
+| Anschrift | [wie oben oder abweichend] |
+
+> ⚠︎ **Benennungspflicht prüfen:** Eine Pflicht zur Benennung eines DSB kann sich hier bereits aus **Art. 37 Abs. 1 lit. b/c DSGVO** und **§ 38 BDSG** ergeben, weil zu unserer **Kerntätigkeit die umfangreiche Verarbeitung besonderer Datenkategorien (Gesundheitsdaten)** gehört. Die Benennungspflicht ist unabhängig von der Mitarbeiterzahl zu prüfen und ggf. der Aufsichtsbehörde zu melden. **Diese Prüfung vor Go-Live abschließen.**
+
+## 3. Grundsätze und allgemeine Rechtsgrundlagen
+
+Wir verarbeiten personenbezogene Daten nach den Grundsätzen der Rechtmäßigkeit, Datenminimierung, Zweckbindung, Speicherbegrenzung, Integrität und Vertraulichkeit (Art. 5 DSGVO). Als Rechtsgrundlagen kommen insbesondere in Betracht:
+
+- **Art. 6 Abs. 1 lit. a DSGVO** – Einwilligung
+- **Art. 6 Abs. 1 lit. b DSGVO** – Vertragserfüllung / vorvertragliche Maßnahmen
+- **Art. 6 Abs. 1 lit. c DSGVO** – rechtliche Verpflichtung (z. B. Steuer-, Sozial-, Handelsrecht)
+- **Art. 6 Abs. 1 lit. f DSGVO** – berechtigte Interessen
+- **Art. 9 Abs. 2 lit. a DSGVO** – ausdrückliche Einwilligung in die Verarbeitung von Gesundheitsdaten
+- **§ 26 BDSG** – Beschäftigten- und Bewerberdatenverarbeitung
+- **§ 25 TDDDG** – Speicherung/Zugriff auf Endgeräte-Informationen (Cookies)
+
+> ⚠︎ Für **Gesundheitsdaten** ist die tragende Rechtsgrundlage sorgfältig festzulegen: Als Betreuungsdienst **ohne medizinische Pflege** können wir uns regelmäßig **nicht** auf Art. 9 Abs. 2 lit. h DSGVO (Gesundheits-/Sozialbereich durch schweigepflichtiges Fachpersonal) stützen. **Vorrangig ist die ausdrückliche Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO** einzuholen (siehe Dokument „Datenschutz-Einwilligung Kunde/Angehörige"). Anwaltlich final bestätigen. ⚠︎
+> ⚠︎ Die Reichweite von **§ 26 BDSG** ist infolge der EuGH-Rechtsprechung (Rs. C-34/21) umstritten; die Beschäftigtendatenverarbeitung ggf. zusätzlich auf Art. 6 Abs. 1 DSGVO stützen.
+
+## 4. Kategorien betroffener Personen und Datenarten
+
+| Kategorie betroffener Personen | Verarbeitete Datenarten |
+|---|---|
+| **Website-Besucher:innen** | IP-Adresse, Zugriffszeitpunkt, aufgerufene Seiten, Browser-/Geräteinformationen, Referrer, Cookie-/Einwilligungsstatus |
+| **Interessent:innen / Kontaktaufnahme** | Name, Kontaktdaten, Nachrichteninhalt, ggf. angegebener Betreuungsbedarf |
+| **Kund:innen (Betreute)** | Stammdaten, Kontaktdaten, Anschrift, Pflegegrad, **Gesundheits-/Bedarfsdaten (Art. 9)**, Interessen-/Matching-Profil, Einsatz- und Leistungsdokumentation, Abrechnungs-/Zahlungsdaten |
+| **Angehörige / Betreuer:innen / Bevollmächtigte** | Name, Kontaktdaten, Rolle/Vollmacht, ggf. Zahlungsdaten |
+| **Bewerber:innen** | Bewerbungs-/Kontaktdaten, Lebenslauf, Qualifikations-/Ausbildungsnachweise, Verfügbarkeit, Interessenprofil, ggf. erweitertes Führungszeugnis |
+| **Beschäftigte / Betreuungskräfte** | Stamm-, Vertrags-, Abrechnungs-, Sozialversicherungs-, Qualifikations- und Arbeitszeitdaten, Einsatzdaten |
+
+> ⚠︎ **Führungszeugnisse** (Bewerber/Leitung) sind besonders sensibel. Einsichtnahme dokumentieren, **keine dauerhafte Kopie** speichern, sofern nicht ausdrücklich erforderlich und zulässig. Anwaltlich prüfen. ⚠︎
+
+## 5. Zwecke der Verarbeitung
+
+- Bereitstellung, Betrieb und Sicherheit von Website, Plattform und App
+- Anbahnung, Abschluss und Durchführung von Betreuungsverträgen (Alltagsbegleitung, Aktivierung, Entlastung – **keine medizinische Pflege**)
+- **Interessen-Matching** zwischen Kund:innen und Betreuungskräften
+- Einsatzplanung sowie Leistungs- und Qualitätsdokumentation
+- Abrechnung, auch über den Entlastungsbetrag (§ 45b SGB XI) mit der Pflegekasse, sowie des privaten Abo-Modells „BetreuungsPlus"
+- Bewerbermanagement und Personalverwaltung
+- Erfüllung gesetzlicher Aufbewahrungs- und Nachweispflichten
+- Bearbeitung von Anfragen, Beschwerden und Ausübung von Betroffenenrechten
+
+## 6. Bereitstellung der Website und Server-Logfiles
+
+Beim Aufruf der Website werden automatisch Zugriffsdaten (Server-Logfiles) verarbeitet, u. a. IP-Adresse, Datum/Uhrzeit, abgerufene Datei, Referrer, Browser-/Betriebssysteminformationen. Zweck ist der technische Betrieb, die Stabilität und die IT-Sicherheit. Rechtsgrundlage ist **Art. 6 Abs. 1 lit. f DSGVO** (berechtigtes Interesse an einem sicheren, funktionsfähigen Angebot).
+
+Speicherdauer: [z. B. 7 Tage] für Logfiles; sicherheitsrelevante Vorfälle ggf. länger. ⚠︎ Speicherdauer mit Hoster/DSB abstimmen.
+
+## 7. Hosting und Auftragsverarbeitung
+
+Website, Plattform und App werden bei einem Dienstleister mit **Serverstandort innerhalb der EU/des EWR** betrieben. Mit allen Auftragsverarbeitern (Hosting, Softwarebetrieb, Wartung, Support) schließen wir **Auftragsverarbeitungsverträge nach Art. 28 DSGVO** ab.
+
+| Dienstleister (Kategorie) | Anbieter / Zweck | Standort |
+|---|---|---|
+| Hosting/Infrastruktur | [Anbieter] | EU/EWR |
+| Plattform-/App-Betrieb, Wartung | [Anbieter] | EU/EWR |
+| E-Mail / Kommunikation | [Anbieter] | EU/EWR |
+
+> ⚠︎ **Drittlandtransfer:** Es ist grundsätzlich **kein** Transfer in Drittländer vorgesehen (EU-Datenstandort). Vor Einsatz jedes Tools ist zu prüfen, ob (auch mittelbar, z. B. Support/Sub-Prozessoren) ein Drittlandbezug besteht; falls ja, sind Garantien nach Art. 44 ff. DSGVO (z. B. Angemessenheitsbeschluss / EU-Standardvertragsklauseln) erforderlich. ⚠︎
+
+## 8. Cookies und Einwilligungsmanagement
+
+Wir setzen technisch notwendige Cookies zum Betrieb der Website/Plattform ein (Rechtsgrundlage: **§ 25 Abs. 2 TDDDG**, **Art. 6 Abs. 1 lit. f DSGVO**). Nicht notwendige Cookies sowie Analyse-/Marketing-Dienste werden **nur mit Ihrer Einwilligung** über ein Consent-Banner gesetzt (**§ 25 Abs. 1 TDDDG**, **Art. 6 Abs. 1 lit. a DSGVO**). Die Einwilligung ist jederzeit mit Wirkung für die Zukunft widerrufbar (Cookie-Einstellungen: [Link/„Einstellungen"]).
+
+| Cookie/Dienst | Zweck | Rechtsgrundlage | Speicherdauer |
+|---|---|---|---|
+| Session-/Auth-Cookie | Anmeldung, Sicherheit | § 25 Abs. 2 TDDDG | Sitzung |
+| Consent-Cookie | Speicherung Ihrer Auswahl | § 25 Abs. 2 TDDDG | [6–12 Monate] |
+| [Analyse-Dienst] | Reichweitenmessung | Einwilligung | [Platzhalter] |
+
+> ⚠︎ **§ 25 TDDDG** (vormals § 25 TTDSG) und die konkrete Cookie-/Diensteliste durch DSB/Anwalt final belegen. Nur tatsächlich eingesetzte Dienste aufführen. ⚠︎
+
+## 9. Kontaktaufnahme
+
+Bei Kontakt per Kontaktformular, E-Mail oder Telefon verarbeiten wir Ihre Angaben zur Bearbeitung der Anfrage. Rechtsgrundlage ist **Art. 6 Abs. 1 lit. b DSGVO** (bei Vertragsbezug) bzw. **Art. 6 Abs. 1 lit. f DSGVO** (sonstige Anfragen). Wir löschen die Daten, sobald sie nicht mehr erforderlich sind, vorbehaltlich gesetzlicher Aufbewahrungspflichten.
+
+> ⚠︎ Über Kontaktformulare **keine Gesundheitsdaten** abfragen. Für Bedarfserhebung mit Gesundheitsbezug einen gesicherten, einwilligungsbasierten Prozess nutzen. ⚠︎
+
+## 10. Registrierung und Nutzerkonto (Plattform/App)
+
+Für die Nutzung der Plattform/App (Kund:innen, Angehörige, Betreuungskräfte, Verwaltung) richten wir rollenbasierte Nutzerkonten ein. Verarbeitet werden die zur Kontoführung, Authentifizierung, Einsatzsteuerung und Dokumentation erforderlichen Daten. Rechtsgrundlage: **Art. 6 Abs. 1 lit. b DSGVO**; für Gesundheitsdaten zusätzlich **Art. 9 Abs. 2 lit. a DSGVO**.
+
+## 11. Kund:innen- und Gesundheitsdaten
+
+Zur Erbringung der Betreuung verarbeiten wir Stammdaten, Bedarfs- und Gesundheitsdaten (z. B. Pflegegrad, Einschränkungen, Vorlieben) sowie das Interessenprofil für das Matching. Gesundheitsdaten verarbeiten wir **nur auf Grundlage Ihrer ausdrücklichen Einwilligung (Art. 9 Abs. 2 lit. a DSGVO)** und beschränkt auf das für Betreuung und Sicherheit Erforderliche. **Medizinische Diagnosen stellen wir nicht.**
+
+> ⚠︎ Verhältnis von Einwilligung und Vertragserfüllung sowie mögliche Erforderlichkeit weiterer Rechtsgrundlagen (Art. 9 Abs. 2 DSGVO) anwaltlich/DSB prüfen. ⚠︎
+
+## 12. Bewerbungen
+
+Bewerbungsdaten verarbeiten wir zur Durchführung des Bewerbungsverfahrens auf Grundlage von **§ 26 BDSG** und **Art. 6 Abs. 1 lit. b DSGVO**. Bei Nichteinstellung löschen wir die Unterlagen in der Regel **6 Monate** nach Abschluss des Verfahrens, sofern Sie keiner längeren Speicherung (Talent-Pool) zugestimmt haben. Rechtsgrundlage einer längeren Speicherung: **Art. 6 Abs. 1 lit. a DSGVO**.
+
+## 13. Interessen-Matching / automatisierte Entscheidungen
+
+Zur Vermittlung passender Betreuungspersonen werten wir Interessen-, Werte- und Bedarfsangaben aus (Matching). **Eine ausschließlich automatisierte Entscheidung mit rechtlicher Wirkung im Sinne von Art. 22 DSGVO findet nicht statt** – Vorschläge werden durch die verantwortliche Fachkraft/Leitung geprüft; die finale Zuordnung erfolgt durch Menschen.
+
+> ⚠︎ Sollte das Matching Gesundheitsdaten einbeziehen oder zunehmend automatisiert erfolgen, sind Art. 22 DSGVO, ggf. eine **Datenschutz-Folgenabschätzung (Art. 35 DSGVO)** und Transparenzpflichten erneut zu bewerten. ⚠︎
+
+## 14. Empfänger und Kategorien von Empfängern
+
+Eine Weitergabe erfolgt nur, soweit erforderlich und rechtlich zulässig:
+
+| Empfänger:in | Zweck | Rechtsgrundlage |
+|---|---|---|
+| Pflege-/Krankenkassen | Abrechnung Entlastungsbetrag (§ 45b SGB XI) | Art. 6 Abs. 1 lit. b/c, Art. 9 Abs. 2 lit. a |
+| Steuerberatung / Lohnbüro | Buchhaltung, Lohn, Steuer | Art. 6 Abs. 1 lit. c |
+| Berufsgenossenschaft (BGW) | gesetzliche Unfallversicherung | Art. 6 Abs. 1 lit. c |
+| Banken / Zahlungsdienstleister | Zahlungsabwicklung (SEPA) | Art. 6 Abs. 1 lit. b |
+| IT-/Hosting-Dienstleister | Betrieb (Auftragsverarbeiter, Art. 28) | Art. 6 Abs. 1 lit. f |
+| Behörden / Gerichte | bei gesetzlicher Verpflichtung | Art. 6 Abs. 1 lit. c |
+
+> ⚠︎ Übermittlung von Gesundheitsdaten an die Pflegekasse und deren Grundlage (Einwilligung/Abtretung) im Abrechnungsprozess gesondert absichern. ⚠︎
+
+## 15. Speicherdauer und Löschung
+
+Wir speichern personenbezogene Daten nur so lange, wie es für die genannten Zwecke erforderlich ist oder gesetzliche Aufbewahrungsfristen bestehen.
+
+| Datenart | Regelfrist |
+|---|---|
+| Server-Logfiles | [z. B. 7 Tage] |
+| Kontaktanfragen (ohne Vertrag) | bis zu [Platzhalter], dann Löschung |
+| Bewerbungsunterlagen (Absage) | 6 Monate nach Verfahrensende |
+| Vertrags-/Kundendaten | Vertragsdauer + gesetzliche Fristen |
+| Buchhaltungs-/Abrechnungsdaten | 8–10 Jahre (§ 147 AO, § 257 HGB) |
+| Einsatz-/Leistungsdokumentation | ⚠︎ [Aufbewahrungsfrist festlegen] |
+
+> ⚠︎ Die Aufbewahrungsfrist der **Betreuungs-/Leistungsdokumentation** (Nachweis gegenüber Pflegekasse/Stadt Köln, Haftung) ist rechtlich festzulegen und im Löschkonzept zu dokumentieren. ⚠︎
+
+## 16. Ihre Rechte als betroffene Person
+
+Sie haben das Recht auf:
+
+- **Auskunft** (Art. 15 DSGVO)
+- **Berichtigung** (Art. 16 DSGVO)
+- **Löschung** (Art. 17 DSGVO)
+- **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
+- **Datenübertragbarkeit** (Art. 20 DSGVO)
+- **Widerspruch** gegen Verarbeitungen auf Basis von Art. 6 Abs. 1 lit. f DSGVO (Art. 21 DSGVO)
+- **Widerruf** erteilter Einwilligungen mit Wirkung für die Zukunft (Art. 7 Abs. 3 DSGVO)
+
+Zur Ausübung genügt eine formlose Mitteilung an [E-Mail-Adresse].
+
+## 17. Beschwerderecht bei der Aufsichtsbehörde
+
+Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren (Art. 77 DSGVO). Zuständig für uns ist:
+
+| Aufsichtsbehörde | Kontakt |
+|---|---|
+| Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) | [Anschrift/Website eintragen und prüfen] |
+
+> ⚠︎ Aktuelle Anschrift und Zuständigkeit der LDI NRW vor Veröffentlichung bestätigen. ⚠︎
+
+## 18. Pflicht zur Bereitstellung
+
+Für Vertragsschluss und -durchführung ist die Bereitstellung bestimmter Daten erforderlich; ohne diese können wir die Betreuung nicht erbringen bzw. nicht mit der Pflegekasse abrechnen. Die Einwilligung in die Verarbeitung von Gesundheitsdaten ist freiwillig, aber für die Leistungserbringung notwendig.
+
+## 19. Datensicherheit
+
+Wir treffen technische und organisatorische Maßnahmen nach **Art. 32 DSGVO** (u. a. Transportverschlüsselung TLS, Zugriffskonzept, Verschlüsselung, Protokollierung, Backup; siehe Dokument „Technisch-organisatorische Maßnahmen").
+
+## 20. Aktualität und Änderung
+
+Diese Datenschutzerklärung hat den Stand [Monat/Jahr]. Wir passen sie an, wenn sich Rechtslage oder Verarbeitungen ändern.
+
+---
+
+> ⚠︎ **Vor Veröffentlichung zwingend:** vollständige Prüfung durch Fachanwält:in (IT-/Datenschutzrecht) und DSB; Abgleich mit dem tatsächlichen Verarbeitungsverzeichnis, den eingesetzten Diensten und den TOM. Dieser Entwurf ersetzt keine Rechtsberatung.

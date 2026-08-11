@@ -1,0 +1,126 @@
+Dieser Leitfaden strukturiert das kostenlose Erstgespräch und dient zugleich als ausfüllbares Formular zur Bedarfserhebung; er ist die Grundlage für Interessen-Matching, Betreuungsvereinbarung und Abrechnungsweg.
+
+## Zweck und Einordnung
+
+Das Erstgespräch klärt Situation, Unterstützungsbedarf und Rahmenbedingungen und legt fest, ob und wie „Vertraut" unterstützen kann. Es findet in der Regel im häuslichen Umfeld der zu betreuenden Person statt.
+
+- Leistungsart: niedrigschwellige **Alltagsbegleitung, Aktivierung und Entlastung**. **Keine medizinische oder körperbezogene Pflege.**
+- Ergebnis: Bedarfsbild, empfohlener Betreuungsumfang, Abrechnungsweg, nächste Schritte.
+- Dauer: ca. 45–60 Minuten. Kostenfrei und unverbindlich.
+
+### Vorbereitung (intern)
+- [ ] Termin bestätigt, Adresse und Anfahrt geprüft
+- [ ] Unterlagen mitgeführt: dieser Bogen, Interessenprofil-Bogen, Leistungsübersicht, Preisblatt, Einwilligungs-/SEPA-Formular
+- [ ] Pflegegrad-/Kassenunterlagen der Kund:innen bereithalten lassen (Bescheid der Pflegekasse)
+
+## Teil A – Stammdaten
+
+| Feld | Eintrag |
+|---|---|
+| Zu betreuende Person (Name, Vorname) | [Name] |
+| Geburtsdatum | [TT.MM.JJJJ] |
+| Anschrift (Einsatzort) | [Straße, Nr., PLZ, Ort] |
+| Telefon / E-Mail | [Kontakt] |
+| Wohnsituation | [ ] allein lebend [ ] mit Partner:in [ ] mit Angehörigen [ ] betreutes Wohnen [ ] sonstiges: [___] |
+| Erreichbarkeit / beste Zeiten | [___] |
+| Sprache(n) | [___] |
+| Gespräch geführt von (Fachkraft) | [Name] |
+| Datum des Erstgesprächs | [TT.MM.JJJJ] |
+| Anwesende Personen | [___] |
+
+## Teil B – Aktuelle Situation und Lebensumfeld
+
+- Aktuelle Lebenssituation (Stichworte): [___]
+- Tagesstruktur / typischer Tagesablauf: [___]
+- Mobilität: [ ] uneingeschränkt [ ] Gehhilfe [ ] Rollator [ ] Rollstuhl [ ] überwiegend im Bett [ ] sonstiges: [___]
+- Kognitive Situation (allgemein, **ohne Diagnose**): [ ] orientiert [ ] leicht vergesslich [ ] deutliche Einschränkung [ ] Angabe Angehörige: [___]
+- Seh-/Hörvermögen, Kommunikation: [___]
+- Bereits vorhandene Unterstützung (Pflegedienst, Angehörige, Nachbarschaft, andere Dienste): [___]
+- Wohnumfeld / Besonderheiten (Treppen, Haustiere, Zugang, Schlüssel): [___]
+
+## Teil C – Unterstützungsbedarf
+
+Zutreffendes ankreuzen und konkretisieren. **Nur nicht-pflegerische Alltagsleistungen.**
+
+| Bereich | Bedarf | Konkretisierung |
+|---|---|---|
+| Gesellschaft / Gespräche / Zuhören | [ ] | [___] |
+| Spaziergänge / Bewegung / Begleitung nach draußen | [ ] | [___] |
+| Begleitung zu Terminen, Einkäufen, Behörden | [ ] | [___] |
+| Aktivierung (Spiele, Vorlesen, Musik, Gedächtnis) | [ ] | [___] |
+| Hobbys / gemeinsame Interessen | [ ] | [→ Interessenprofil-Bogen] |
+| Unterstützung im Haushalt (leicht, hauswirtschaftlich) | [ ] | [___] |
+| Mahlzeiten-Begleitung / einfache Zubereitung | [ ] | [___] |
+| Entlastung pflegender Angehöriger | [ ] | [___] |
+| Digitale Hilfe (Telefon, Tablet, Kontakt zu Familie) | [ ] | [___] |
+| Sonstiges | [ ] | [___] |
+
+> ⚠︎ **Abgrenzung prüfen:** Medizinische Behandlungspflege, Körperpflege, Medikamentengabe, Wundversorgung u. Ä. werden **nicht** erbracht. Bei entsprechendem Bedarf an Pflegedienst/Arzt verweisen und dokumentieren.
+
+## Teil D – Umfang und Häufigkeit
+
+- Gewünschter Umfang pro Einsatz: [___] Stunden
+- Häufigkeit: [ ] wöchentlich [ ] mehrmals/Woche [ ] 14-tägig [ ] monatlich [ ] flexibel/nach Bedarf
+- Bevorzugte Wochentage / Uhrzeiten: [___]
+- Gewünschter Startzeitpunkt: [TT.MM.JJJJ]
+- Geschätzter Monatsumfang (Std.): [___]
+- Feste Betreuungsperson gewünscht: [ ] ja [ ] flexibel
+
+## Teil E – Pflegegrad und Abrechnungsweg
+
+### Pflegegrad
+- Pflegegrad vorhanden: [ ] nein [ ] Antrag läuft [ ] ja, Pflegegrad: [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5
+- Pflegekasse: [Name der Pflegekasse]
+- Bereits genutzte Leistungen (Sachleistung, Entlastungsbetrag, sonstige): [___]
+
+### Abrechnungsweg festlegen (keine Vermischung)
+- [ ] **Weg A – Pflegekasse (§45a/§45b):** Abrechnung über **Entlastungsbetrag §45b (131 €/Monat)** und ggf. **Umwidmung §45a Abs. 4** (ab PG 2: PG2 318 € · PG3 599 € · PG4 744 € · PG5 920 €/Monat).
+- [ ] **Weg B – Privat / Selbstzahler / BetreuungsPlus:** direkte Rechnung an Kund:in / SEPA-Lastschrift.
+- [ ] Kombination geplant, aber **strikt getrennt abgerechnet** (Kassen-Anteil und Privat-Anteil auf getrennten Leistungsnachweisen).
+
+> ⚠︎ Anspruch, Restbudget und Umwidmungsfähigkeit **vor Vertragsbeginn** mit der Pflegekasse der Kund:in bestätigen. Voraussetzung für Weg A: anerkanntes Angebot nach AnFöVO NRW und Eintrag NRW-Angebotsfinder.
+
+## Teil F – Angehörige und Bezugspersonen
+
+| Feld | Eintrag |
+|---|---|
+| Hauptansprechperson (Name, Verhältnis) | [Name, z. B. Tochter] |
+| Telefon / E-Mail | [Kontakt] |
+| Bevollmächtigt / Betreuung (rechtlich)? | [ ] Vollmacht [ ] rechtl. Betreuung [ ] nein |
+| In welchen Fragen einzubeziehen? | [___] |
+| Notfallkontakt | [Name, Telefon] |
+
+## Teil G – Wünsche, Erwartungen und Interessen
+
+- Was ist der Person besonders wichtig? [___]
+- Erwartungen an die Betreuungsperson: [___]
+- Erste Hinweise auf Interessen/Hobbys (Überleitung): [___]
+
+> Für das **Interessen-Matching** wird im Anschluss der Interessenprofil-Bogen ausgefüllt (USP von „Vertraut").
+
+## Teil H – Ergebnis und nächste Schritte
+
+- Bedarf einschätzbar / Angebot passt: [ ] ja [ ] teilweise [ ] nein, Grund: [___]
+- Empfohlener Umfang / Rhythmus: [___]
+- Empfohlener Abrechnungsweg: [ ] A Pflegekasse [ ] B Privat
+- Vereinbarte nächste Schritte:
+  - [ ] Interessenprofil ausfüllen
+  - [ ] Betreuungsvereinbarung erstellen und unterschreiben
+  - [ ] Einwilligung/Abtretung §45b + ggf. SEPA-Mandat
+  - [ ] Matching-Vorschlag durch Fachkraft
+  - [ ] Kennenlern-/Ersteinsatz-Termin: [TT.MM.JJJJ]
+- Offene Punkte / ⚠︎ extern zu klären: [___]
+
+## Abschluss und Unterschriften
+
+Die Angaben wurden gemeinsam erhoben und dienen der Bedarfsklärung. Eine Weiterverarbeitung erfolgt gemäß Datenschutzhinweisen.
+
+| | Datum | Unterschrift |
+|---|---|---|
+| Kund:in / Bevollmächtigte:r | [TT.MM.JJJJ] | ________________ |
+| Fachkraft „Vertraut" | [TT.MM.JJJJ] | ________________ |
+
+### Interne Hinweise für die Fachkraft
+- Vollständigkeit vor Angebotserstellung prüfen; unklare Abgrenzung zur Pflege dokumentieren.
+- Bei Auffälligkeiten (Selbst-/Fremdgefährdung, Vernachlässigung) Krisenleitfaden anwenden und Leitung informieren.
+- Keine medizinischen Einschätzungen oder Diagnosen notieren.
