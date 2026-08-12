@@ -1,60 +1,72 @@
 # Vertraut — Firmenplattform (Betreuungsdienst Köln/NRW)
 
-Interne, statische Firmenplattform: bündelt den gesamten Aufbaustand des Betreuungsdienstes,
-die GAP-Analyse, die offenen Punkte und 33 Fachdokumente als druckbare Seiten.
+Interne, **passwortgeschützte** Firmenplattform: bündelt den gesamten Aufbaustand des
+Betreuungsdienstes, die GAP-Analyse, die offenen Punkte und 39 Fachdokumente.
 
 > Arbeitstitel „Vertraut" (Markenname austauschbar). Stand: August 2026.
 > Alle Rechts-/Steuer-/Regulatorik-Angaben ohne Gewähr — vor Umsetzung fachlich prüfen.
 
 ---
 
-## 🚀 Live stellen — drei Wege
+## 🔒 Passwortschutz (nur fürs Team)
 
-### Weg A — am schnellsten (ohne GitHub, ~1 Minute)
-1. ZIP entpacken.
-2. Auf **https://vercel.com/new** gehen → Reiter **„Deploy"** / **„Browse"**.
-3. Den entpackten Ordner **`vertraut-site`** per Drag & Drop hineinziehen.
-4. **Deploy** klicken → fertig, du bekommst eine `…vercel.app`-URL.
+Die Seite ist serverseitig geschützt (Vercel-Middleware, `middleware.js`). Ohne Login
+liefert der Server **nichts** aus — die Seite ist damit nicht öffentlich zugänglich.
 
-*(Kein Framework, kein Build-Schritt nötig — es ist eine reine statische Seite.)*
+**Standard-Login (unbedingt ändern):**
+- Benutzer: `team`
+- Passwort: `Vertraut!2026`
 
-### Weg B — über GitHub (für dauerhaftes Repo + Auto-Deploys)
-1. Neues Repo auf **github.com/new** anlegen (z. B. `vertraut-plattform`).
-2. Auf der Repo-Seite **„uploading an existing file"** klicken und den **Inhalt** des entpackten
-   Ordners hochladen (alle `.html`, den Ordner `dokumente/`, `assets/`, `vercel.json`).
+**Passwort ändern — zwei Wege:**
+- **Empfohlen:** In Vercel unter *Settings → Environment Variables* die Variablen
+  `SITE_USER` und `SITE_PASSWORD` setzen → dann steht das Passwort nicht im Code.
+- **Einfach:** In `middleware.js` die beiden Default-Werte ersetzen und neu deployen.
+
+---
+
+## 🚀 Online stellen — über GitHub (empfohlen, weil geschützt)
+
+1. Neues Repo auf **github.com/new** anlegen (am besten **privat**).
+2. Den **Inhalt** dieses Ordners hochladen (alle `.html`, `dokumente/`, `assets/`,
+   `middleware.js`, `package.json`, `vercel.json`).
    *Oder per Git:* `git init && git add . && git commit -m "Vertraut" && git push`.
-3. Auf **vercel.com/new** das GitHub-Repo importieren → **Deploy**.
-4. Ab jetzt löst jeder Push automatisch ein neues Deployment aus.
+3. Auf **vercel.com/new** das Repo importieren. Einstellungen:
+   - **Framework Preset:** „Other"
+   - **Build Command / Output Directory:** leer lassen (Standard)
+   - Vercel installiert automatisch die Middleware-Abhängigkeit und aktiviert den Schutz.
+4. **Deploy** → beim Öffnen der `…vercel.app`-URL fragt der Browser nach Benutzer + Passwort.
+5. Optional: unter *Settings → Environment Variables* `SITE_USER` / `SITE_PASSWORD` setzen.
 
-### Weg C — Vercel CLI
-```bash
-npm i -g vercel
-cd vertraut-site
-vercel --prod
-```
+> Hinweis: Der Drag-&-Drop-Upload ohne GitHub eignet sich nur für die **ungeschützte**
+> Variante — der Passwortschutz braucht den Install-Schritt, den der GitHub-Import macht.
+
+**Alternativen zum Passwortschutz (falls gewünscht):** In Vercel unter
+*Settings → Deployment Protection* gibt es „Vercel Authentication" (kostenlos, aber alle
+Betrachter brauchen einen Vercel-Account) und „Password Protection" (nur im Pro-Plan).
 
 ---
 
 ## Struktur
 ```
 index.html            Übersicht / Cockpit
-strategie.html …      8 Abteilungsseiten (Strategie, Gründung, Anerkennung,
-                      Personal, Finanzen, IT, Vertrieb, Betrieb)
+strategie.html …      8 Abteilungsseiten
 gap-analyse.html      GAP-Analyse (Soll-Ist)
 was-fehlt.html        Priorisierte Liste offener Unterlagen
 dokumente.html        Dokumentenbibliothek
-dokumente/*.html      33 Fachdokumente (druckbar / als PDF speicherbar)
-assets/style.css      Design-System
-assets/app.js         Navigation, Renderer, Interaktivität
-_content/             Quelltexte (Markdown-Dokumente + Seiten-Fragmente)
-build.py              Baut alle Seiten neu (python3 build.py)
+dokumente/*.html      39 Fachdokumente (druckbar / als PDF)
+Finanzplan_Vertraut.xlsx   Editierbarer Finanzplan
+assets/               Design-System + Interaktivität
+middleware.js         Passwortschutz (serverseitig)
+package.json          Middleware-Abhängigkeit
+_content/             Quelltexte · build.py  Baut die Seiten neu
 ```
 
-## Neu bauen (optional)
-```bash
-pip install markdown --break-system-packages   # nur falls Quellen geändert werden
-python3 build.py
-```
+---
 
-Marke, Farben und Texte lassen sich zentral anpassen: `assets/style.css` (Farben),
-`assets/app.js` (Navigation/Branding), `_content/` (Inhalte) → danach `python3 build.py`.
+## ⚖️ Kurz zum rechtlichen Hintergrund (keine Rechtsberatung)
+Diese Plattform ist ein **internes** Firmen-Cockpit, nicht die öffentliche Kundenseite.
+Solange sie **passwortgeschützt** und damit nicht öffentlich zugänglich ist, entfällt der
+typische Abmahn-Vektor „öffentliche Seite ohne korrektes Impressum/Datenschutz". Sobald
+später eine **öffentliche** Kundenseite online geht, müssen dort ein korrektes Impressum
+und eine Datenschutzerklärung eingebunden sein — beide liegen als Entwurf in `dokumente/`.
+Im Zweifel kurz anwaltlich prüfen lassen.

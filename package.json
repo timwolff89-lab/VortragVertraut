@@ -1,0 +1,9 @@
+{
+  "name": "vertraut-plattform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interne Firmenplattform Vertraut (statisch) mit Passwortschutz per Vercel-Middleware.",
+  "dependencies": {
+    "@vercel/functions": "latest"
+  }
+}
